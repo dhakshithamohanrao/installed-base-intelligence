@@ -1,0 +1,17 @@
+model,machine_id,failures,rank_in_model
+model1,109,9,1
+model1,128,7,2
+model1,9,5,3
+model1,18,5,3
+model1,37,5,3
+model2,141,14,1
+model2,77,13,2
+model2,70,11,3
+model3,20,12,1
+model3,96,12,1
+model3,8,10,3
+model3,25,10,3
+model3,55,10,3
+model4,19,18,1
+model4,101,16,2
+model4,104,15,3

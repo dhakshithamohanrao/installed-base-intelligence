@@ -1,0 +1,7 @@
+machine_id,serial_number,model,customer_name,country,warranty_end,expiry_window
+110,SN-00110,model4,Hernandez-Martin,Netherlands,2026-11-26,within 6 months
+69,SN-00069,model1,"Wilson, Simpson and Maxwell",United States,2027-01-02,within 6 months
+97,SN-00097,model2,"Wilson, Simpson and Maxwell",United States,2027-03-07,within 6 months
+85,SN-00085,model1,"Johnson, Robbins and Abbott",France,2027-07-04,within 12 months
+52,SN-00052,model1,"Brown, Mcmahon and Combs",Italy,2027-07-15,within 12 months
+3,SN-00003,model4,Hernandez-Martin,Netherlands,2027-09-08,within 12 months

@@ -1,0 +1,30 @@
+country,model,machines
+China,model1,7
+China,model2,10
+China,model3,8
+China,model4,4
+France,model1,5
+France,model2,4
+France,model3,3
+France,model4,1
+Germany,model1,10
+Germany,model2,12
+Germany,model3,26
+Germany,model4,8
+Italy,model1,2
+Italy,model2,5
+Italy,model3,4
+Italy,model4,1
+Netherlands,model1,3
+Netherlands,model2,4
+Netherlands,model3,4
+Netherlands,model4,3
+Poland,model1,1
+Poland,model2,1
+Poland,model3,2
+Spain,model1,2
+Spain,model2,8
+Spain,model3,1
+Spain,model4,4
+United States,model1,2
+United States,model2,5

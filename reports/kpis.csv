@@ -1,0 +1,7 @@
+kpi,value
+avg_installed_base_age_years,10.7
+pct_out_of_warranty,93.3
+failures_per_100_machines_last_12m,165.3
+avg_downtime_hours_per_failure,7.1
+spare_part_revenue_per_machine_eur,4257.0
+data_quality_score_pct_raw,92.6
