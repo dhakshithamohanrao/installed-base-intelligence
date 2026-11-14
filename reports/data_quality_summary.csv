@@ -1,0 +1,9 @@
+rule,table,issues,pct_of_rows
+duplicate_serial_number,machines,6,3.85
+missing_install_date,machines,6,3.85
+missing_warranty_end,machines,4,2.56
+warranty_before_install,machines,4,2.56
+inconsistent_country,customers,10,33.33
+service_before_install,service_events,10,2.0
+negative_cost,service_events,8,1.6
+zero_cost,service_events,3,0.6
