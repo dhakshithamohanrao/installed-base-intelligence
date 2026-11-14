@@ -8,7 +8,7 @@ SEED = 42
 N_MACHINES = 150
 REF = pd.Timestamp("2026-11-01")      # "today" for the project
 WINDOW_START = pd.Timestamp("2024-01-01")
-OUT = Path("data/raw")
+OUT = Path("data/source")
 
 rng = np.random.default_rng(SEED)
 OUT.mkdir(parents=True, exist_ok=True)
