@@ -1,0 +1,11 @@
+service_id,datetime,machine_id,component,cost_eur,reason
+16,2007-12-14 00:00:00,34,comp2,250.53,service_before_install
+125,2020-07-05 00:00:00,42,comp1,1032.22,service_before_install
+213,2021-04-16 00:00:00,27,comp3,454.77,service_before_install
+267,2018-07-21 00:00:00,142,comp2,260.56,service_before_install
+307,2018-05-06 00:00:00,1,comp2,365.91,service_before_install
+366,2022-08-23 00:00:00,114,comp2,243.62,service_before_install
+391,2015-07-07 00:00:00,67,comp4,365.34,service_before_install
+396,2010-07-22 00:00:00,60,comp3,318.67,service_before_install
+447,2021-04-05 00:00:00,27,comp1,946.97,service_before_install
+476,2018-08-09 00:00:00,142,comp1,691.53,service_before_install
